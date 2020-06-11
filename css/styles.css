@@ -1,14 +1,14 @@
 @charset "UTF-8";
 body {
-	background-color: #A9A9A9;
-	background-image: url(../images/bkgd.jpg);
-	background-size: cover;
-	background-attachment: fixed;
-	font-family: actor;
-	font-style: normal;
-	font-weight: 400;
-	height: 100%;
-	margin: 0;
+    background-color: #A9A9A9;
+    background-image: url(../images/architech.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: actor;
+    font-style: normal;
+    font-weight: 400;
+    height: 100%;
+    margin: 0;
 }
 h1 {
 	font-family: alfa-slab-one;
