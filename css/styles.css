@@ -101,10 +101,10 @@ nav {
 	background-color: #358B6C;
 }
 .container-fluid .navbar-header .navbar-brand {
-	font-family: alfa-slab-one;
-	font-style: normal;
-	font-weight: 400;
-	color: #558678;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(196,164,83,1.00);
 }
 .formStyle {
 	width: 100%;
