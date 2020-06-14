@@ -11,15 +11,16 @@ body {
     margin: 0;
 }
 h1 {
-	font-family: alfa-slab-one;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 2.5em;
-	text-align: center;
-	line-height: 1em;
-	height: 1em;
-	color: #FFFFFF;
-	text-shadow: 4px 5px 17px #000000;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 0px;
 }
 h2 {
 	font-family: alfa-slab-one;
@@ -72,8 +73,8 @@ footer {
     float: right;
 }
 header {
-	text-align: center;
-	margin-top: 70px;
+    text-align: center;
+    margin-top: 132px;
 }
 nav {
     background-color: #000000;
@@ -207,14 +208,15 @@ body {
 	margin: 0;
 }
 h1 {
-	font-family: alfa-slab-one;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 2em;
-	text-align: center;
-	line-height: 1em;
-	height: 1em;
-	margin-bottom: 42px;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    margin-bottom: 42px;
+    margin-top: 0px;
 }
 header {
 	margin-top: 30px;
