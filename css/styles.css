@@ -110,9 +110,6 @@ nav {
     font-weight: 400;
     color: rgba(196,164,83,1.00);
 }
-.formStyle {
-	width: 100%;
-}
 .sectionLeft {
     width: 70%;
     float: left;
@@ -176,16 +173,20 @@ nav {
     margin-bottom: 100px;
 }
 .sectionMiddle {
-    width: 50%;
     background-color: rgba(196,164,83,1.00);
-    margin-left: 218px;
-    padding-top: 25px;
-    padding-right: 25px;
-    padding-bottom: 25px;
-    padding-left: 25px;
-    float: left;
-    border-radius: 25px;
+    width: 80%;
+    margin-bottom: 100px;
+    padding-left: 2.5%;
+    padding-top: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 2.5%;
 }
+.formStyle {
+    width: 100%;
+}
+
+
+
 
 
 
@@ -200,6 +201,7 @@ nav {
 	margin-left: 5%;
 	margin-top: 30px;
 }
+
 .sectionRight {
     width: 65%;
     float: right;
@@ -208,6 +210,7 @@ nav {
     margin-left: 5%;
     margin-bottom: 100px;
 }
+
 body {
 	background-color:darkslategray;
 	background-image: url();
@@ -229,9 +232,6 @@ h1 {
     height: 1em;
     margin-bottom: 42px;
     margin-top: 0px;
-}
-.formStyle {
-    width: 100%;
 }
 
 header {
