@@ -175,6 +175,18 @@ nav {
     float: left;
     margin-bottom: 100px;
 }
+.sectionMiddle {
+    width: 50%;
+    background-color: rgba(196,164,83,1.00);
+    margin-left: 218px;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    float: left;
+    border-radius: 25px;
+}
+
 
 
 
@@ -218,6 +230,10 @@ h1 {
     margin-bottom: 42px;
     margin-top: 0px;
 }
+.formStyle {
+    width: 100%;
+}
+
 header {
 	margin-top: 30px;
 }
