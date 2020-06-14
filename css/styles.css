@@ -160,6 +160,21 @@ nav {
     border-radius: 25px;
     margin-bottom: 100px;
 }
+.sectionHome {
+    width: 75%;
+    margin-top: 267px;
+    margin-right: 5%;
+    margin-left: 12%;
+    padding-top: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 2.5%;
+    padding-left: 2.5%;
+    background-color: rgba(196,164,83,1.00);
+    border-radius: 20px;
+    float: left;
+    margin-bottom: 100px;
+}
+
 
 
 
