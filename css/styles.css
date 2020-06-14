@@ -55,21 +55,21 @@ footer {
 	margin-top: 30px;
 }
 .sectionRight {
-	width: 55%;
-	float: right;
-	margin-right: 5%;
-	margin-top: 30px;
-	margin-left: 1%;
-	padding-left: 2.5%;
-	padding-right: 2.5%;
-	padding-top: 2.5%;
-	padding-bottom: 2.5%;
-	background-image: -webkit-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-	background-image: -moz-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-	background-image: -o-linear-gradient(270deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-	background-image: linear-gradient(180deg,rgba(253,252,252,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
-	border-top-right-radius: 25px;
-	margin-bottom: 100px;
+    width: 70%;
+    margin-right: 5%;
+    margin-top: 92px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg,rgba(196,164,83,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(196,164,83,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(196,164,83,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
+    background-image: linear-gradient(180deg,rgba(196,164,83,1.00) 16.39%,rgba(255,255,255,0.25) 100%);
+    border-radius: 25px;
+    margin-bottom: 100px;
+    float: right;
 }
 header {
 	text-align: center;
@@ -112,6 +112,41 @@ nav {
 .formStyle {
 	width: 100%;
 }
+.sectionLeft {
+    width: 70%;
+    float: left;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-left: 5%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 51.30%,rgba(196,164,83,1.00) 71.50%,rgba(196,164,83,1.00) 80.83%,rgba(196,164,83,1.00) 82.90%,rgba(196,164,83,1.00) 85.49%,rgba(196,164,83,1.00) 90.16%,rgba(196,164,83,1.00) 98.45%,rgba(196,164,83,1.00) 99.48%,rgba(196,164,83,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 51.30%,rgba(196,164,83,1.00) 71.50%,rgba(196,164,83,1.00) 80.83%,rgba(196,164,83,1.00) 82.90%,rgba(196,164,83,1.00) 85.49%,rgba(196,164,83,1.00) 90.16%,rgba(196,164,83,1.00) 98.45%,rgba(196,164,83,1.00) 99.48%,rgba(196,164,83,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 51.30%,rgba(196,164,83,1.00) 71.50%,rgba(196,164,83,1.00) 80.83%,rgba(196,164,83,1.00) 82.90%,rgba(196,164,83,1.00) 85.49%,rgba(196,164,83,1.00) 90.16%,rgba(196,164,83,1.00) 98.45%,rgba(196,164,83,1.00) 99.48%,rgba(196,164,83,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 51.30%,rgba(196,164,83,1.00) 71.50%,rgba(196,164,83,1.00) 80.83%,rgba(196,164,83,1.00) 82.90%,rgba(196,164,83,1.00) 85.49%,rgba(196,164,83,1.00) 90.16%,rgba(196,164,83,1.00) 98.45%,rgba(196,164,83,1.00) 99.48%,rgba(196,164,83,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    border-radius: 25px;
+    margin-bottom: 100px;
+}
+.sectionRight2 {
+    float: right;
+    background-image: -webkit-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 81.87%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 81.87%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 81.87%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(196,164,83,1.00) 0%,rgba(196,164,83,1.00) 81.87%,rgba(255,0,0,1.00) 100%);
+    border-radius: 25px;
+    width: 70%;
+    margin-top: 30px;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-top: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 2.5%;
+    padding-left: 2.5%;
+}
+
+
 
 @media (max-width: 650px){
 .asideLeft {
@@ -122,12 +157,12 @@ nav {
 	margin-top: 30px;
 }
 .sectionRight {
-	width: 90%;
-	float: none;
-	margin-right: 5%;
-	margin-top: 30px;
-	margin-left: 5%;
-	margin-bottom: 100px;
+    width: 65%;
+    float: right;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-bottom: 100px;
 }
 body {
 	background-color:darkslategray;
