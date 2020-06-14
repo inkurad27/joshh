@@ -76,7 +76,7 @@ header {
 	margin-top: 70px;
 }
 nav {
-	background-color: #EEEEEE;
+    background-color: #000000;
 }
 .navlist {
 	margin: 0px;
@@ -88,17 +88,20 @@ nav {
 	/*float: left;*/
 }
 .navlistitem a {
-	text-decoration: none;
-	display: block;
-	padding-top: 14px;
-	padding-left: 16px;
-	padding-right: 16px;
-	padding-bottom: 16px;
-	color: #6B6B6B;
+    display: block;
+    padding-top: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    color: #6B6B6B;
+    text-align: center;
+    font-style: normal;
+    font-family: alike;
+    font-weight: 400;
 }
 .navlistitem a:hover {
-	color: black;
-	background-color: #358B6C;
+    color: rgba(196,164,83,1.00);
+    background-color:rgba(196,164,83,1.00);
 }
 .container-fluid .navbar-header .navbar-brand {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
