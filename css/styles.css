@@ -26,11 +26,11 @@ h1 {
     left: 0px;
 }
 h2 {
-	font-family: alfa-slab-one;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 1.5em;
-	text-align: center;
+    font-family: average;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.5em;
+    text-align: center;
 }
 footer {
 	font-size: small;
