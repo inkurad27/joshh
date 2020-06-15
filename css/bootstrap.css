@@ -60,8 +60,9 @@ dfn {
   font-style: italic;
 }
 h1 {
-  margin: .67em 0;
-  font-size: 2em;
+    margin: .67em 0;
+    font-size: 2em;
+    left: 0%;
 }
 mark {
   color: #000;
@@ -86,6 +87,8 @@ sub {
 img {
     border: 0;
     margin-top: 0px;
+    margin-left: 60px;
+    height: 0%;
 }
 svg:not(:root) {
   overflow: hidden;
