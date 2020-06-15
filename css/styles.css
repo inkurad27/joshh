@@ -184,6 +184,15 @@ nav {
 .formStyle {
     width: 100%;
 }
+.caption1 {
+    color: #000000;
+}
+.title1   {
+    color: rgba(0,0,0,1.00);
+    font-weight: bolder;
+}
+
+
 
 
 
